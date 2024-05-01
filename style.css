@@ -40,7 +40,7 @@ html
 body
 {
     animation: bg 10s ease-in-out infinite alternate;
-    background: linear-gradient(to right,#000000d1, #000000d1),
+    background: linear-gradient(to right,#000000e4, #000000e4),
     url(assets/bgSection1.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -468,7 +468,7 @@ header p
 
 .sk4
 {
-    width: 10%;
+    width: 60%;
     background-color: #529CB0;
 }
 
